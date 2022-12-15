@@ -1,0 +1,15 @@
+C:\Users\TUF GAMING\OneDrive\Desktop\Soal uts 1\bin\Debug\net6.0\Soal uts 1.exe
+C:\Users\TUF GAMING\OneDrive\Desktop\Soal uts 1\bin\Debug\net6.0\Soal uts 1.deps.json
+C:\Users\TUF GAMING\OneDrive\Desktop\Soal uts 1\bin\Debug\net6.0\Soal uts 1.runtimeconfig.json
+C:\Users\TUF GAMING\OneDrive\Desktop\Soal uts 1\bin\Debug\net6.0\Soal uts 1.dll
+C:\Users\TUF GAMING\OneDrive\Desktop\Soal uts 1\bin\Debug\net6.0\Soal uts 1.pdb
+C:\Users\TUF GAMING\OneDrive\Desktop\Soal uts 1\obj\Debug\net6.0\Soal uts 1.csproj.AssemblyReference.cache
+C:\Users\TUF GAMING\OneDrive\Desktop\Soal uts 1\obj\Debug\net6.0\Soal uts 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TUF GAMING\OneDrive\Desktop\Soal uts 1\obj\Debug\net6.0\Soal uts 1.AssemblyInfoInputs.cache
+C:\Users\TUF GAMING\OneDrive\Desktop\Soal uts 1\obj\Debug\net6.0\Soal uts 1.AssemblyInfo.cs
+C:\Users\TUF GAMING\OneDrive\Desktop\Soal uts 1\obj\Debug\net6.0\Soal uts 1.csproj.CoreCompileInputs.cache
+C:\Users\TUF GAMING\OneDrive\Desktop\Soal uts 1\obj\Debug\net6.0\Soal uts 1.dll
+C:\Users\TUF GAMING\OneDrive\Desktop\Soal uts 1\obj\Debug\net6.0\refint\Soal uts 1.dll
+C:\Users\TUF GAMING\OneDrive\Desktop\Soal uts 1\obj\Debug\net6.0\Soal uts 1.pdb
+C:\Users\TUF GAMING\OneDrive\Desktop\Soal uts 1\obj\Debug\net6.0\Soal uts 1.genruntimeconfig.cache
+C:\Users\TUF GAMING\OneDrive\Desktop\Soal uts 1\obj\Debug\net6.0\ref\Soal uts 1.dll

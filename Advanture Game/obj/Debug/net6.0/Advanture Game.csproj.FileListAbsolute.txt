@@ -1,0 +1,30 @@
+D:\Tugas Daspro\Advanture Game\bin\Debug\net6.0\Advanture Game.exe
+D:\Tugas Daspro\Advanture Game\bin\Debug\net6.0\Advanture Game.deps.json
+D:\Tugas Daspro\Advanture Game\bin\Debug\net6.0\Advanture Game.runtimeconfig.json
+D:\Tugas Daspro\Advanture Game\bin\Debug\net6.0\Advanture Game.dll
+D:\Tugas Daspro\Advanture Game\bin\Debug\net6.0\Advanture Game.pdb
+D:\Tugas Daspro\Advanture Game\obj\Debug\net6.0\Advanture Game.csproj.AssemblyReference.cache
+D:\Tugas Daspro\Advanture Game\obj\Debug\net6.0\Advanture Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tugas Daspro\Advanture Game\obj\Debug\net6.0\Advanture Game.AssemblyInfoInputs.cache
+D:\Tugas Daspro\Advanture Game\obj\Debug\net6.0\Advanture Game.AssemblyInfo.cs
+D:\Tugas Daspro\Advanture Game\obj\Debug\net6.0\Advanture Game.csproj.CoreCompileInputs.cache
+D:\Tugas Daspro\Advanture Game\obj\Debug\net6.0\Advanture Game.dll
+D:\Tugas Daspro\Advanture Game\obj\Debug\net6.0\refint\Advanture Game.dll
+D:\Tugas Daspro\Advanture Game\obj\Debug\net6.0\Advanture Game.pdb
+D:\Tugas Daspro\Advanture Game\obj\Debug\net6.0\Advanture Game.genruntimeconfig.cache
+D:\Tugas Daspro\Advanture Game\obj\Debug\net6.0\ref\Advanture Game.dll
+D:\Tugas Daspro\Tugas Pemrograman\Advanture Game\bin\Debug\net6.0\Advanture Game.exe
+D:\Tugas Daspro\Tugas Pemrograman\Advanture Game\bin\Debug\net6.0\Advanture Game.deps.json
+D:\Tugas Daspro\Tugas Pemrograman\Advanture Game\bin\Debug\net6.0\Advanture Game.runtimeconfig.json
+D:\Tugas Daspro\Tugas Pemrograman\Advanture Game\bin\Debug\net6.0\Advanture Game.dll
+D:\Tugas Daspro\Tugas Pemrograman\Advanture Game\bin\Debug\net6.0\Advanture Game.pdb
+D:\Tugas Daspro\Tugas Pemrograman\Advanture Game\obj\Debug\net6.0\Advanture Game.csproj.AssemblyReference.cache
+D:\Tugas Daspro\Tugas Pemrograman\Advanture Game\obj\Debug\net6.0\Advanture Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tugas Daspro\Tugas Pemrograman\Advanture Game\obj\Debug\net6.0\Advanture Game.AssemblyInfoInputs.cache
+D:\Tugas Daspro\Tugas Pemrograman\Advanture Game\obj\Debug\net6.0\Advanture Game.AssemblyInfo.cs
+D:\Tugas Daspro\Tugas Pemrograman\Advanture Game\obj\Debug\net6.0\Advanture Game.csproj.CoreCompileInputs.cache
+D:\Tugas Daspro\Tugas Pemrograman\Advanture Game\obj\Debug\net6.0\Advanture Game.dll
+D:\Tugas Daspro\Tugas Pemrograman\Advanture Game\obj\Debug\net6.0\refint\Advanture Game.dll
+D:\Tugas Daspro\Tugas Pemrograman\Advanture Game\obj\Debug\net6.0\Advanture Game.pdb
+D:\Tugas Daspro\Tugas Pemrograman\Advanture Game\obj\Debug\net6.0\Advanture Game.genruntimeconfig.cache
+D:\Tugas Daspro\Tugas Pemrograman\Advanture Game\obj\Debug\net6.0\ref\Advanture Game.dll

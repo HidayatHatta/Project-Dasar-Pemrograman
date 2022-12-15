@@ -1,0 +1,54 @@
+<!-- Hidayat Hatta Irsyad (2207111397) -->
+<!DOCTYPE html>
+<html>
+
+<head>
+    <script src="https://cdn.jsdelivr.net/npm/vue@2/dist/vue.js"></script>
+    <title>ToDo App VueJS</title>
+</head>
+
+<body>
+    <div id="app">
+        <form v-on:submit.prevent="mataKuliah">
+            <h1>{{nama}}</h1>
+            <p for="new-todo">Masukkan mata kuliah</p>
+            <input v-model="namaMk" id="new-todo" placeholder="Dasar Pemrograman..." />
+            <button>Tambahkan ke list</button>
+        </form>
+        <ul>
+            <li is="todo-item" v-for="(todo, index) in matkul" v-bind:key="todo.id" v-bind:title="todo.title"
+                v-on:remove="matkul.splice(index, 1)"></li>
+        </ul>
+    </div>
+    <script>
+        Vue.component("todo-item", {
+            template:
+                "\
+    <li>\
+      {{ title }}\
+      <button v-on:click=\"$emit('remove')\">Hapus</button>\
+    </li>\
+  ",
+            props: ["title"],
+        });
+        new Vue({
+            el: "#app",
+            data: {
+                nama: "Pemilihan Mata Kuliah",
+                namaMk: "",
+                matkul: [],
+            },
+            methods: {
+                mataKuliah: function () {
+                    this.matkul.push({
+                        id: this.listMk++,
+                        title: this.namaMk,
+                    });
+                    this.namaMk = "";
+                },
+            },
+        });
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,7 @@
+<div >
+  <p>
+    Selamat datang di kelas {{ matakuliah }}!
+  </p>
+  <p *ngIf="matakuliah != 'Pemrograman Framework'"> Mata Kuliah Diganti!</p>
+  <button (click)="matakuliah = 'Pemrograman Visual'">Ganti Mata Kuliah</button>
+</div>
